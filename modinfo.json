@@ -1,0 +1,13 @@
+{
+	"id": "theunfamiliar",
+	"name": "The Unfamiliar",
+	"version": "1.0.0",
+	"hide_version": false,
+	"authors": "Opal",
+	"description": "Character Mod for Tarnished Potato's region mod, Intake Network... Campaign??'",
+	"requirements": [ "slime-cubed.slugbase" ],
+	"requirements_names": [ "SlugBase" ],
+	"checksum_override_version": false,
+	"tags": [ "Character" ]
+}
+
